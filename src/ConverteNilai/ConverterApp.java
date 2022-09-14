@@ -19,6 +19,7 @@ public class ConverterApp {
 
         System.out.println("Converter Nilai Manual");
 
+        // conveter manual dari nilai kecil ke besar
         double iniDouble = 10D;
         int iniInteger_Satu = (int) iniDouble;
 

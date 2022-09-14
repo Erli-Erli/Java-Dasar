@@ -1,4 +1,4 @@
-package Number;
+package TipeDataNumber;
 
 public class NumberApp {
     public static void main(String[] args) {
